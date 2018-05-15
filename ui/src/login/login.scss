@@ -1,0 +1,11 @@
+body {
+  background-color: #eeeeee;
+
+  .application {
+    font-weight: 300;
+    font-size: 10px;
+    font-family: Tahoma, Geneva, sans-serif;
+  }
+}
+
+@import 'shared/widget/Widget.scss';

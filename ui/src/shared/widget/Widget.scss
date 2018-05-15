@@ -1,0 +1,26 @@
+.widget-container {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 3px 3px;
+  padding: 0px 0px;
+  overflow: hidden;
+
+  .widget-heading { 
+    font-size: 12px;
+    font-weight: 400;
+    padding: 2px 4px;
+    background-color: #eee;
+    height: 20px;
+  }
+
+  .widget-body {
+    height: calc(100% - 40px);
+  }
+
+  .widget-footer {
+    font-weight: 400;
+    padding: 2px 4px;
+    height: 20px;
+    background-color: #eee;
+  }
+}

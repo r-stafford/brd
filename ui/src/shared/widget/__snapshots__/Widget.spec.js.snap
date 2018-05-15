@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widget Should render correctly 1`] = `<div />`;
+
+exports[`Widget Should render correctly: initial state 1`] = `null`;
+
+exports[`Widget always renders a Body: initial state 1`] = `undefined`;
+
+exports[`Widget always renders a Footer: initial state 1`] = `undefined`;
+
+exports[`Widget always renders a Heading: initial state 1`] = `undefined`;
